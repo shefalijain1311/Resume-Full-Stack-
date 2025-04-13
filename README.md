@@ -33,6 +33,16 @@ Welcome to my Full-Stack Developer portfolio! I'm Shefali Jain, a passionate dev
 
 ---
 
+## 📜 Certifications
+
+- 🟩 [AWS Certified Cloud Practitioner](https://drive.google.com/file/d/1ENKkhIrx3APXWe43YWsnhGyjOBMuF0fz/view?usp=drive_link)  
+  *Validated foundational AWS cloud proficiency including cloud architecture, services, and security.*
+
+- 🟦 [MERN Full Stack Internship – Ethnus](https://drive.google.com/file/d/18Qvo-T7CCH60XX7DruAIwB4Yg9Vtyft_/view?usp=drive_link)  
+  *Hands-on development of end-to-end web applications using MongoDB, Express.js, React, and Node.js.*
+
+---
+
 ## 🧳 Experience
 
 ### 🔹 Full Stack Developer Intern @ Sai Instrument Services  
